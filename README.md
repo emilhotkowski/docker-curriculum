@@ -1,3 +1,5 @@
+Purpose of this repository is to improve my docker skills a little :) 
+
 Docker Curriculum
 ===
 
